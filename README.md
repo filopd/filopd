@@ -13,4 +13,4 @@
 
 ## LinkedIn Profile: https://www.linkedin.com/in/erpriyeshnaik/
 
-## Updated Resume: https://www.slideshare.net/slideshow/embed_code/key/3RTiyi61ke1jZu
+## Updated Resume: https://github.com/naikpd/naikpd-Profile/tree/master/Resume
