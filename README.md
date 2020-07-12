@@ -7,4 +7,5 @@ Nowadays I am learning <b>Data Science</b> and <b>Golang</b> which is very inter
 <br>
 <li>I work at <a href='https://www.qad.com/'>QAD Inc. (Cloud Adaptive ERP)</a> as a <b>Software Engineer - 1</b>. I provide training on Python to newbies joining the company. I moved to a new team which is responsible to <b>automate mundane and repetitive processes</b>. I am getting trained for <b>Cassandra and Google Analytics</b>.</li>
 <br>
-![filopd-wallpaper](/images/filopd-wallpaper.jpg)
+<img src="https://github.com/filopd/filopd/blob/master/images/filopd-wallpaper.jpg" alt="Priyesh Naik github repo wallpaper image."/>
+<br>
