@@ -1,5 +1,13 @@
 <H1>Hi Folks, I am Priyesh Dilip Naik.</H1>
 
+<a href="https://www.linkedin.com/in/erpriyeshnaik/">
+<img src="https://github.com/filopd/filopd/blob/master/images/linkedin.png" alt="filopd-linkedin"/>
+</a>
+ 
+<a href="https://www.linkedin.com/in/erpriyeshnaik/">
+<img src="https://github.com/filopd/filopd/blob/master/images/linkedin.png" alt="filopd-linkedin"/>
+</a>
+<br>
 <li>I believe in <b>creating opportunities</b> instead of waiting for them. I like to learn new technologies so that I can use them while <b>solving the problems</b>. I follow the <b>'Learn-Share-Learn'</b> approach to improve my skills. I haven't created any community but I am part of many of them.</li>
 <br>
 <li>I enjoy working with <b>Python</b> (Django, Selenium), <b>Bash Scripting</b> (rundeck jobs), <b>OOABL</b> (Progress 4GL + OOPs) and <b>Golang Go</b>. 
