@@ -10,7 +10,7 @@
 <img src="https://github.com/filopd/filopd/blob/master/images/twitter.png" alt="filopd-twitter" width="30" height="30"/>
 </a>
 <a href="https://www.codecademy.com/users/filopd/achievements">
-<img src="https://github.com/filopd/filopd/blob/master/images/codecademy.png" alt="filopd-twitter" width="30" height="30"/>
+<img src="https://github.com/filopd/filopd/blob/master/images/codecademy.png" alt="filopd-twitter" width="30" height="150"/>
 </a>
 
 <br>
