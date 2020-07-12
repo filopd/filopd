@@ -7,7 +7,10 @@
 <img src="https://github.com/filopd/filopd/blob/master/images/facebook.jpg" alt="filopd-facebook" width="30" height="30"/>
 </a>
 <a href="https://www.linkedin.com/in/erpriyeshnaik/">
-<img src="https://github.com/filopd/filopd/blob/master/images/linkedin.png" alt="filopd-linkedin" width="50" height="50"/>
+<img src="https://github.com/filopd/filopd/blob/master/images/linkedin.png" alt="filopd-linkedin" width="30" height="30"/>
+</a>
+<a href="https://www.linkedin.com/in/erpriyeshnaik/">
+<img src="https://github.com/filopd/filopd/blob/master/images/linkedin1.png" alt="filopd-linkedin" width="30" height="30"/>
 </a>
 
 <br>
