@@ -15,8 +15,11 @@
 <a href="https://google.qwiklabs.com/public_profiles/b4a0adcb-56e9-45d1-93fc-f057b3128076">
 <img src="https://github.com/filopd/filopd/blob/master/images/gcp_badges.png" alt="filopd-gcp-badges" width="30" height="30"/>
 </a>
-<a href="https://www.hackerrank.com/dashboard">
+<a href="https://www.hackerrank.com/filopd">
 <img src="https://github.com/filopd/filopd/blob/master/images/hackerrank.png" alt="filopd-hackerrank-dashboard" width="30" height="30"/>
+</a>
+<a href="https://www.kaggle.com/filopd">
+<img src="https://github.com/filopd/filopd/blob/master/images/kaggle.png" alt="filopd-kaggle" width="90" height="30"/>
 </a>
 
 <br>
