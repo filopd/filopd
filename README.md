@@ -1,9 +1,8 @@
 <H1>Hi Folks, I am Priyesh Dilip Naik.</H1>
-
+<br>
 <a href="https://www.facebook.com/public/Priyesh-Naik">
 <img src="https://github.com/filopd/filopd/blob/master/images/facebook.png" alt="filopd-facebook" width="30" height="30"/>
 </a>
- 
 <a href="https://www.linkedin.com/in/erpriyeshnaik/">
 <img src="https://github.com/filopd/filopd/blob/master/images/linkedin.png" alt="filopd-linkedin" width="50" height="50"/>
 </a>
