@@ -9,6 +9,9 @@
 <a href="https://twitter.com/priyesh_filopd">
 <img src="https://github.com/filopd/filopd/blob/master/images/twitter.png" alt="filopd-twitter" width="30" height="30"/>
 </a>
+<a href="https://www.codecademy.com/users/filopd/achievements">
+<img src="https://github.com/filopd/filopd/blob/master/images/codecademy.png" alt="filopd-twitter" width="30" height="30"/>
+</a>
 
 <br>
 <li>I believe in <b>creating opportunities</b> instead of waiting for them. I like to learn new technologies so that I can use them while <b>solving the problems</b>. I follow the <b>'Learn-Share-Learn'</b> approach to improve my skills. I haven't created any community but I am part of many of them.</li>
