@@ -12,6 +12,9 @@
 <a href="https://www.codecademy.com/users/filopd/achievements">
 <img src="https://github.com/filopd/filopd/blob/master/images/codecademy.png" alt="filopd-twitter" width="150" height="30"/>
 </a>
+<a href="https://google.qwiklabs.com/public_profiles/b4a0adcb-56e9-45d1-93fc-f057b3128076">
+<img src="https://github.com/filopd/filopd/blob/master/images/gcp_badges.png" alt="filopd-twitter" width="30" height="30"/>
+</a>
 
 <br>
 <br>
