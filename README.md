@@ -1,4 +1,4 @@
-<img src="https://github.com/filopd/filopd/blob/master/images/filopd-gif.gif" alt="filopd-hello-world" width="200" height="200"/>
+<img src="https://github.com/filopd/filopd/blob/master/images/filopd-gif.gif" alt="filopd-hello-world" width="385" height="85"/>
 <H1>Hi Folks, I am Priyesh Dilip Naik.</H1>
 <br>
 <a href="https://www.facebook.com/public/Priyesh-Naik">
