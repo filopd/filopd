@@ -1,6 +1,6 @@
 <img src="https://github.com/filopd/filopd/blob/master/images/filopd-gif.gif" alt="filopd-hello-world" width="550" height="60"/>
-<font color="blue" face="Verdana, Geneva, sans-serif" size="+1">Hi Folks, I am Priyesh Dilip Naik (filopd).</font>
-<br>
+<font color="blue" face="Verdana, Geneva, sans-serif" size="+5">Hi Folks, I am Priyesh Dilip Naik (filopd).</font>
+<br><br>
 <a href="https://stackoverflow.com/story/naikpd">
 <img src="https://github.com/filopd/filopd/blob/master/images/filopd-stackoverflow.png" alt="filopd-stackoverflow-story" width="30" height="30"/>
 </a>
