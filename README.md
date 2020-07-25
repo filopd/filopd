@@ -25,7 +25,7 @@
 <img src="https://github.com/filopd/filopd/blob/master/images/kaggle.png" alt="filopd-kaggle" width="90" height="30"/>
 </a>
 <a href="https://dev.to/filopd">
-<img src="https://github.com/filopd/filopd/blob/master/images/devTo.png" alt="filopd-dev.to" width="90" height="30"/>
+<img src="https://github.com/filopd/filopd/blob/master/images/devTo.png" alt="filopd-dev.to" width="30" height="30"/>
 </a>
 
 <br>
