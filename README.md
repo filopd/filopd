@@ -1,6 +1,5 @@
-<img src="https://github.com/filopd/filopd/blob/master/images/filopd-gif.gif" alt="filopd-hello-world" width="550" height="60"/>
+<img src="https://github.com/filopd/filopd/blob/master/images/filopd-gif.gif" alt="filopd-hello-world" width="550" height="60"/>  <img src="https://github.com/filopd/filopd/blob/master/images/filopd_dp.png" alt="filopd-profile-pic" width="60" height="60"/>
 <h1 style="background-color:powderblue;">I'm Priyesh Dilip Naik (filopd).</h1>
-<br><br>
 <a href="https://stackoverflow.com/story/naikpd">
 <img src="https://github.com/filopd/filopd/blob/master/images/filopd-stackoverflow.png" alt="filopd-stackoverflow-story" width="30" height="30"/>
 </a>
