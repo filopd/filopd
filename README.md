@@ -1,5 +1,5 @@
-<img src="https://github.com/filopd/filopd/blob/master/images/filopd-gif.gif" alt="filopd-hello-world" width="367" height="40"/>
-<H1>Hi Folks, I am Priyesh Dilip Naik.</H1>
+<img src="https://github.com/filopd/filopd/blob/master/images/filopd-gif.gif" alt="filopd-hello-world" width="550" height="60"/>
+<p style="font-size:30px">Hi Folks, I am Priyesh Dilip Naik.</p>
 <br>
 <a href="https://stackoverflow.com/story/naikpd">
 <img src="https://github.com/filopd/filopd/blob/master/images/filopd-stackoverflow.png" alt="filopd-stackoverflow-story" width="30" height="30"/>
