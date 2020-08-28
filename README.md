@@ -1,4 +1,4 @@
-<img src="https://github.com/filopd/filopd/blob/master/images/filopd-gif.gif" alt="filopd-hello-world" width="550" height="60"/>  <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="erpriyeshnaik"><a class="LI-simple-link" href='https://in.linkedin.com/in/erpriyeshnaik?trk=profile-badge'>Priyesh Naik</a></div>
+<img src="https://github.com/filopd/filopd/blob/master/images/filopd-gif.gif" alt="filopd-hello-world" width="550" height="60"/>  <img src="https://github.com/filopd/filopd/blob/master/images/filopd_dp.png" alt="filopd-profile-pic" width="120" height="120" align="right"/>
 <h1 style="background-color:powderblue;">I'm Priyesh (filoPD).</h1>
 <a href="https://stackoverflow.com/story/naikpd">
 <img src="https://github.com/filopd/filopd/blob/master/images/filopd-stackoverflow.png" alt="Priyesh Naik's stackoverflow-story" width="30" height="30"/>
