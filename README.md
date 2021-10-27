@@ -1,4 +1,4 @@
-<img src="https://github.com/filopd/filopd/blob/master/images/filopd-gif.gif" alt="filopd-hello-world" width="550" height="60"/>  <img src="https://github.com/filopd/filopd/blob/master/images/filopd_dp.png" alt="filopd-profile-pic" width="120" height="120" align="right"/>
+<img src="https://github.com/filopd/filopd/blob/master/images/filopd-gif.gif" alt="filopd-hello-world" width="550" height="60"/>
 <h1 style="background-color:powderblue;">I'm Priyesh (filoPD).</h1>
 <a href="https://stackoverflow.com/story/naikpd">
 <img src="https://github.com/filopd/filopd/blob/master/images/filopd-stackoverflow.png" alt="Priyesh Naik's stackoverflow-story" width="30" height="30"/>
